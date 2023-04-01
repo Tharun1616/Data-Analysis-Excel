@@ -4,7 +4,7 @@ Dataset Link : https://www.kaggle.com/datasets/biswajitbrahmma/ipl-complete-data
 
 IPL Logo Used : 
 
-![ipl-logo](https://user-images.githubusercontent.com/72075661/229274729-5f891ef7-7bc6-49af-8c6b-37b86e4810e0.png =100x100)
+<img src="https://user-images.githubusercontent.com/72075661/229274729-5f891ef7-7bc6-49af-8c6b-37b86e4810e0.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="100" height="100" />
 
 Dashboard Image:
 
